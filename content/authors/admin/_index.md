@@ -75,5 +75,6 @@ user_groups:
 I'm a research scientist on the FlyEM Team at the Howard Hughes Medical Institute's Janelia Research Campus.  We use cutting-edge electron microscopy to image fruit fly brains at nanometer resolution.  After extracting likely neurons from the 25+ Teravoxel image volumes (through our collaboration with Google Research), our team of bio experts proofread the results.  The result is a connectome, a map of the neural circuits.  I've been designing the [data systems](http://dvid.io) that allow us to flexibly capture versions of our proofreading and all the data we generate while reconsructing the connectome.
 
 I have two research goals in the near future: 
+
 * To create a github-like way of distributing published data and allowing pull requests of changes from other researchers.
 * To develop interesting ways to visualize the richness of our nanometer-resolution, segmented image volumes.
